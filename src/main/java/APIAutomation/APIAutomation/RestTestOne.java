@@ -1,19 +1,15 @@
 package APIAutomation.APIAutomation;
 
 
-import io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
-import static io.restassured.RestAssured.given;
-
-import io.restassured.RestAssured;
-
 import org.testng.annotations.Test;
+//import static io.restassured.RestAssured.given;
 
 
 
 public class RestTestOne{
 	
-	@Test
+	/*@Test
 	public static void restAPIGet() throws Exception {
 		
 		given()
@@ -29,6 +25,7 @@ public class RestTestOne{
 
 	}
 	
+
 public static void restAPIGet2() throws Exception {
 		
 		given()
@@ -43,6 +40,7 @@ public static void restAPIGet2() throws Exception {
 		
 
 	}
+	*/
 	
 }
 
